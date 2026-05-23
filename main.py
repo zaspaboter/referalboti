@@ -9,7 +9,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 # =====================
 # CONFIG
 # =====================
-
+TOKEN = "8720538642:AAEm4Pz4_4IvLEqOol-B1h8Fcu9WLqVJCVo"
 ADMIN_ID = 7747726585
 
 CHANNEL_LINK = "https://t.me/+j-9uREtQcsUxZmJi"
